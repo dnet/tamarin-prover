@@ -55,7 +55,7 @@ Spthy code editors
 ------------------
 
 The project contains support for spthy syntax highlighting and support
-in the [etc](/etc/) directory. This includes support for [Sublime Text](/etc/SUBLIME_TEXT.md), [VIM](/etc/spthy.vim) and [Notepad++](/etc/notepad_plus_plus_spthy.xml).
+in the [etc](/etc/) directory. This includes support for [Sublime Text](/etc/SUBLIME_TEXT.md), [VIM](/etc/syntax/spthy.vim) and [Notepad++](/etc/notepad_plus_plus_spthy.xml).
 
 
 Example Protocol Models
